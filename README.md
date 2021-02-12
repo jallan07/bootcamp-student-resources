@@ -4,8 +4,15 @@
 
 ## **Table of Contents**
 
+1. [About](#About)
 1. [Contributions](#Contributions)
-2. [Packages & Libraries](#Packages-&-Libraries)
+1. [Packages & Libraries](#Packages-&-Libraries)
+
+---
+
+## About
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ante nulla, ornare ut pretium ut, suscipit vitae orci. Donec auctor fermentum nisl, mollis sodales nisi bibendum ac. Duis id nulla lacinia, ornare risus quis, elementum massa. Suspendisse nunc dolor, tincidunt vel porta ac, ullamcorper eget lectus. Cras mollis ut sapien euismod lobortis. In dictum risus aliquam ante ullamcorper, vitae porttitor ex efficitur. In sit amet nisi vitae lectus egestas consequat.
 
 ---
 
