@@ -39,6 +39,9 @@ Contributions are what make the open source community such an amazing place to b
 - Josh Allan
 - Mark Cross
 - Roberto Rupert
+- Jon Deavers
+- Dylan Frank
+- Tanner Kirkpatrick
 
 ---
 
@@ -119,10 +122,12 @@ Below are some of the packages that we found most helpful throughout our experie
 [HTTP Status Cheatsheet](https://devhints.io/http-status) - Understand your HTTP statuses
 
 ## **MySQL**
+
 [MySQL Docs](https://dev.mysql.com/doc/)
 [Sequelize Docs](https://sequelize.org/)
 [Comprehensive Sequelize Cheatsheet](https://dev.to/projectescape/the-comprehensive-sequelize-cheatsheet-3m1m)
 
 ## **MongoDB**
+
 [MongoDB Docs](https://docs.mongodb.com/manual/)
 [Mongoose Docs](https://mongoosejs.com/docs/index.html)
