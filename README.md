@@ -12,6 +12,9 @@
   - [**Design Resources**](#design-resources)
   - [**JavaScript**](#javascript)
   - [**React**](#react)
+  - [**APIs**](#apis)
+  - [**MySQL**](#mysql)
+  - [**MongoDB**](#mongodb)
 
 ---
 
@@ -79,6 +82,8 @@ Below are some of the packages that we found most helpful throughout our experie
 - [Best Design Resource Websites Every Developer Should Bookmark](https://dev.to/theme_selection/best-design-resources-websites-every-developer-should-bookmark-1p5d) - Exactly what it says it is
 - [Animista](https://animista.net/) - CSS Animations on demand! Select animation options and Animista automatically creates the CSS for you.
 - [Coolors](https://coolors.co/) - Intuitive color scheme generator
+- [1-line Layouts](http://1linelayouts.glitch.me/) - Common CSS layouts in one(ish) line
+- [Flexbox Cheatsheet](https://dev.to/joyshaheb/flexbox-cheat-sheets-in-2021-css-2021-3edl) - Flexbox Cheatsheet
 - [Unsplash](https://unsplash.com/) - Free images for EVERYTHING
 - [icons8](https://icons8.com/) - Free icons that aren't Font Awesome
 - [Remove Image Background](https://www.remove.bg/) - Remove the background from images for easier use
@@ -96,3 +101,27 @@ Below are some of the packages that we found most helpful throughout our experie
 ## **React**
 
 - [React.js Cheatsheet](https://devhints.io/react)
+
+## **APIs**
+
+| Name (a-z)       | Usage                                           | URL                                                  |
+| ---------------- | ----------------------------------------------- | ---------------------------------------------------- |
+| Affirmations.dev | Words of affirmation                            | https://www.affirmations.dev/                        |
+| Rest Countries   | Get information about countries via RESTful API | https://restcountries.eu/                            |
+| Spotify          | Music                                           | https://developer.spotify.com/documentation/web-api/ |
+|                  |                                                 |                                                      |
+|                  |                                                 |                                                      |
+|                  |                                                 |                                                      |
+
+[RapidAPI](https://rapidapi.com/) - Ton of APIs to play with
+[10 Fun APIs](https://dev.to/nialljoemaher/10-fun-api-s-to-inspire-your-next-project-3224) - Get some inspiration for your next project!
+[HTTP Status Cheatsheet](https://devhints.io/http-status) - Understand your HTTP statuses
+
+## **MySQL**
+[MySQL Docs](https://dev.mysql.com/doc/)
+[Sequelize Docs](https://sequelize.org/)
+[Comprehensive Sequelize Cheatsheet](https://dev.to/projectescape/the-comprehensive-sequelize-cheatsheet-3m1m)
+
+## **MongoDB**
+[MongoDB Docs](https://docs.mongodb.com/manual/)
+[Mongoose Docs](https://mongoosejs.com/docs/index.html)
