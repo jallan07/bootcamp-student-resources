@@ -8,19 +8,20 @@
   - [**Table of Contents**](#table-of-contents)
   - [About](#about)
   - [Contributions](#contributions)
-  - [**Packages & Libraries**](#packages--libraries)
+  - [**NPM Packages**](#npm-packages)
   - [**Design Resources**](#design-resources)
   - [**JavaScript**](#javascript)
   - [**React**](#react)
   - [**APIs**](#apis)
   - [**MySQL**](#mysql)
   - [**MongoDB**](#mongodb)
+  - [**Youtube Channels**](#Youtube-Channels)
 
 ---
 
 ## About
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ante nulla, ornare ut pretium ut, suscipit vitae orci. Donec auctor fermentum nisl, mollis sodales nisi bibendum ac. Duis id nulla lacinia, ornare risus quis, elementum massa. Suspendisse nunc dolor, tincidunt vel porta ac, ullamcorper eget lectus. Cras mollis ut sapien euismod lobortis. In dictum risus aliquam ante ullamcorper, vitae porttitor ex efficitur. In sit amet nisi vitae lectus egestas consequat.
+[INSERT OUR JOURNEY STORY HERE]
 
 ---
 
@@ -45,24 +46,24 @@ Contributions are what make the open source community such an amazing place to b
 
 ---
 
-## **Packages & Libraries**
+## **NPM Packages**
 
 Below are some of the packages that we found most helpful throughout our experience in the bootcamp:
 
 | Name (a-z)                                                                             | Usage                                                                                  | Installation                          |
 | -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | ------------------------------------- |
-| axios                                                                                  | Handles CRUD operations for both frontend and backend API calls                        | `npm i axios`                         |
-| bcryptjs                                                                               | Hashes user credentials before passing to and storing in the database                  | `npm i bcryptjs`                      |
-| cookie-parser                                                                          | Middleware which parses cookies attached to the client request object                  | `npm i cookie-parser`                 |
+| [axios](https://github.com/axios/axios)                                                | Handles CRUD operations for both frontend and backend API calls                        | `npm i axios`                         |
+| [bcryptjs](https://www.npmjs.com/package/bcryptjs)                                     | Hashes user credentials before passing to and storing in the database                  | `npm i bcryptjs`                      |
+| [cookie-parser](https://www.npmjs.com/package/cookie-parser)                           | Middleware which parses cookies attached to the client request object                  | `npm i cookie-parser`                 |
 | [express-mongo-sanitize](https://github.com/fiznool/express-mongo-sanitize#readme)     | Middleware which sanitizes data to prevent MongoDB operator injection                  | `npm i express-mongo-sanitize`        |
 | [Formik](https://formik.org/)                                                          | Formik is the world's most popular open source form library for React and React Native | `npm i formik`                        |
-| framer                                                                                 | Library that helps drives interactive animations                                       | `npm i framer`                        |
+| [framer](https://www.npmjs.com/package/framer)                                         | Library that helps drives interactive animations                                       | `npm i framer`                        |
 | [framer-motion](https://www.framer.com/api/motion/#topics)                             | An open source and production-ready motion library for React                           | `npm i helmet`                        |
 | [helmet](https://helmetjs.github.io/)                                                  | Used to add an additional layer of security to the Express backend                     | `npm i framer-motion`                 |
-| jsonwebtoken                                                                           | Safely and securly transmits user credentials via JSON object                          | `npm i jsonwebtoken`                  |
-| mapbox                                                                                 | Leverages Mapbox services for custom map views                                         | `npm i mapbox`                        |
+| [jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken)                             | Safely and securly transmits user credentials via JSON object                          | `npm i jsonwebtoken`                  |
+| [mapbox-gl](https://www.npmjs.com/package/mapbox-gl)                                   | Leverages Mapbox services for custom map views                                         | `npm i mapbox`                        |
 | [morgan](https://github.com/expressjs/morgan#readme)                                   | Used to log HTTP requests in the node console                                          | `npm i morgan`                        |
-| mongoose                                                                               | Enables object modeling for our MongoDB database                                       | `npm i mongoose`                      |
+| [mongoose](https://www.npmjs.com/package/mongoose)                                     | Enables object modeling for our MongoDB database                                       | `npm i mongoose`                      |
 | [multer](https://github.com/expressjs/multer#readme)                                   | Middleware for handling photo uploads within an application                            | `npm i multer`                        |
 | [node-geocoder](https://github.com/nchaulet/node-geocoder#readme)                      | Used to get user location and lookup nearby points of interest                         | `npm i node-geocoder`                 |
 | [nodemailer](https://nodemailer.com/about/)                                            | Send e-mails from Node.js                                                              | `npm i nodemailer`                    |
@@ -70,29 +71,39 @@ Below are some of the packages that we found most helpful throughout our experie
 | [react-animate-on-scroll](https://github.com/dbramwell/react-animate-on-scroll)        | Simple React animations                                                                | `npm install react-animate-on-scroll` |
 | [react-big-calendar](https://jquense.github.io/react-big-calendar/examples/index.html) | It's a big calendar. For React.                                                        | `npm i react-big-calendar`            |
 | [react-bootstrap](https://react-bootstrap.github.io/)                                  | Bootstrap 4 components built with (and for) React (used for styling)                   | `npm i react-bootstrap`               |
-| react-map-gl                                                                           | Renders an interactive map view within an application                                  | `npm i react-map-gl`                  |
-| react-responsive                                                                       | Media queries in react for responsive design                                           | `npm i react-responsive`              |
+| [react-map-gl](https://www.npmjs.com/package/react-map-gl)                             | Renders an interactive map view within an application                                  | `npm i react-map-gl`                  |
+| [react-responsive](https://www.npmjs.com/package/react-responsive)                     | Media queries in react for responsive design                                           | `npm i react-responsive`              |
 | [react-table](https://react-table.tanstack.com/)                                       | Interactive tables for react                                                           | `npm i react-table`                   |
-| semantic-ui-react                                                                      | The official Semantic-UI-React integration (used for styling)                          | `npm i semantic-ui-react`             |
+| [semantic-ui-react](https://www.npmjs.com/package/semantic-ui-react)                   | The official Semantic-UI-React integration (used for styling)                          | `npm i semantic-ui-react`             |
 | [slugify](https://github.com/simov/slugify)                                            | Used to create clean URL slugs that contain no foreign symbols                         | `npm i slugify`                       |
 | [use position](https://github.com/trekhleb/use-position#readme)                        | Used to create universally unique identifiers for an application's data sets           | `npm i use-position`                  |
-| uuidv4                                                                                 | Used to create universally unique identifiers for an application's data sets           | `npm i uuidv4`                        |
-| xss-clean                                                                              | Sanitize user input coming from POST body, GET queries, and url params                 | `npm i xss-clean`                     |
+| [uuidv4](https://www.npmjs.com/package/uuidv4)                                         | Used to create universally unique identifiers for an application's data sets           | `npm i uuidv4`                        |
+| [xss-clean](https://www.npmjs.com/package/xss-clean)                                   | Sanitize user input coming from POST body, GET queries, and url params                 | `npm i xss-clean`                     |
+
+<br />
 
 ---
 
 ## **Design Resources**
 
-- [Best Design Resource Websites Every Developer Should Bookmark](https://dev.to/theme_selection/best-design-resources-websites-every-developer-should-bookmark-1p5d) - Exactly what it says it is
-- [Animista](https://animista.net/) - CSS Animations on demand! Select animation options and Animista automatically creates the CSS for you.
-- [Coolors](https://coolors.co/) - Intuitive color scheme generator
-- [1-line Layouts](http://1linelayouts.glitch.me/) - Common CSS layouts in one(ish) line
-- [Flexbox Cheatsheet](https://dev.to/joyshaheb/flexbox-cheat-sheets-in-2021-css-2021-3edl) - Flexbox Cheatsheet
-- [Unsplash](https://unsplash.com/) - Free images for EVERYTHING
-- [icons8](https://icons8.com/) - Free icons that aren't Font Awesome
-- [Remove Image Background](https://www.remove.bg/) - Remove the background from images for easier use
-- [Lucidchart](https://www.lucidchart.com/pages/) - Diagraming and flowcharting
-- [Figma](https://www.figma.com/)
+| Name (a-z)                                        | Description                                                                 |
+| ------------------------------------------------- | --------------------------------------------------------------------------- |
+| [1-line Layouts](http://1linelayouts.glitch.me/)  | Common CSS layouts in one(ish) line                                         |
+| [Animista](https://animista.net/)                 | Select animation options and Animista automatically creates the CSS for you |
+| [Best design resources](http://bit.ly/3pbLsNf)    | A list of all the best design resources that a developer should bookmark    |
+| [Coolors](https://coolors.co/)                    | Intuitive color scheme generator                                            |
+| [Figma](https://www.figma.com/)                   | Collaborative wireframing and design staging platform                       |
+| [Flat UI Colors](https://flatuicolors.com/)       | A total set of 14 color palettes and 280 colors for your coding projects    |
+| [Flexbox Cheatsheet](http://bit.ly/2LKesht)       | Flexbox Cheatsheet                                                          |
+| [Font Awesome](https://fontawesome.com/)          | Vector icons and social logos for websites                                  |
+| [icons8](https://icons8.com/)                     | Free icons that aren't Font Awesome                                         |
+| [Lucidchart](https://www.lucidchart.com/pages/)   | Diagraming and flowcharting                                                 |
+| [Remove Image Background](https://www.remove.bg/) | Remove the background from images for easier use                            |
+| [Unsplash](https://unsplash.com/)                 | Free images for EVERYTHING                                                  |
+
+<br />
+
+---
 
 ## **JavaScript**
 
@@ -102,32 +113,59 @@ Below are some of the packages that we found most helpful throughout our experie
 - [13 JavaScript One-Liners That’ll Make You Look Like a Pro](https://medium.com/dailyjs/13-javascript-one-liners-thatll-make-you-look-like-a-pro-29a27b6f51cb)
 - [21 Useful JavaScript Snippets For Everyday Development](https://medium.com/javascript-in-plain-english/21-useful-javascript-snippets-for-everyday-development-9e66e33bfb86)
 
+<br />
+
+---
+
 ## **React**
 
 - [React.js Cheatsheet](https://devhints.io/react)
+- [React Interview Questsions & Answers](https://github.com/sudheerj/reactjs-interview-questions)
+
+<br />
+
+---
 
 ## **APIs**
 
-| Name (a-z)       | Usage                                           | URL                                                  |
-| ---------------- | ----------------------------------------------- | ---------------------------------------------------- |
-| Affirmations.dev | Words of affirmation                            | https://www.affirmations.dev/                        |
-| Rest Countries   | Get information about countries via RESTful API | https://restcountries.eu/                            |
-| Spotify          | Music                                           | https://developer.spotify.com/documentation/web-api/ |
-|                  |                                                 |                                                      |
-|                  |                                                 |                                                      |
-|                  |                                                 |                                                      |
+| Name (a-z)                                                      | Usage                                           |
+| --------------------------------------------------------------- | ----------------------------------------------- |
+| [Affirmations.dev](https://www.affirmations.dev/)               | Words of affirmation                            |
+| [Rest Countries](https://restcountries.eu/)                     | Get information about countries via RESTful API |
+| [Spotify](https://developer.spotify.com/documentation/web-api/) | Music                                           |
 
-[RapidAPI](https://rapidapi.com/) - Ton of APIs to play with
-[10 Fun APIs](https://dev.to/nialljoemaher/10-fun-api-s-to-inspire-your-next-project-3224) - Get some inspiration for your next project!
-[HTTP Status Cheatsheet](https://devhints.io/http-status) - Understand your HTTP statuses
+<br />
+
+- [RapidAPI](https://rapidapi.com/) - Ton of APIs to play with
+- [10 Fun APIs](https://dev.to/nialljoemaher/10-fun-api-s-to-inspire-your-next-project-3224) - Get some inspiration for your next project!
+- [HTTP Status Cheatsheet](https://devhints.io/http-status) - Understand your HTTP statuses
+
+<br />
+
+---
 
 ## **MySQL**
 
-[MySQL Docs](https://dev.mysql.com/doc/)
-[Sequelize Docs](https://sequelize.org/)
-[Comprehensive Sequelize Cheatsheet](https://dev.to/projectescape/the-comprehensive-sequelize-cheatsheet-3m1m)
+- [MySQL Docs](https://dev.mysql.com/doc/)
+- [Sequelize Docs](https://sequelize.org/)
+- [Comprehensive Sequelize Cheatsheet](https://dev.to/projectescape/the-comprehensive-sequelize-cheatsheet-3m1m)
+
+<br />
+
+---
 
 ## **MongoDB**
 
-[MongoDB Docs](https://docs.mongodb.com/manual/)
-[Mongoose Docs](https://mongoosejs.com/docs/index.html)
+- [MongoDB Docs](https://docs.mongodb.com/manual/)
+- [Mongoose Docs](https://mongoosejs.com/docs/index.html)
+
+<br />
+
+---
+
+## **Youtube Channels**
+
+- [Traversy Media](https://www.youtube.com/user/TechGuyWeb)
+- [Programming With Mosh](https://www.youtube.com/user/programmingwithmosh)
+- [Dev Ed](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q)
+- [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)
