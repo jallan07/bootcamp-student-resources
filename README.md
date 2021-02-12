@@ -29,6 +29,8 @@ Contributions are what make the open source community such an amazing place to b
 **Current Contributors:**
 
 - Josh Allan
+- Mark Cross
+- Roberto Rupert
 
 ---
 
