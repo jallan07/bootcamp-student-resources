@@ -15,13 +15,19 @@
   - [**APIs**](#apis)
   - [**MySQL**](#mysql)
   - [**MongoDB**](#mongodb)
-  - [**Youtube Channels**](#Youtube-Channels)
+  - [**Youtube Channels**](#youtube-channels)
 
 ---
 
 ## About
 
-[INSERT OUR JOURNEY STORY HERE]
+This repo was created and is maintained by the alums of Trilogy's Full Stack Web Development boot camp at the University of Richmond 2020/21. We wanted to make a place where we could share tips, advice, resources and other information that may prove helpful for future students.   
+
+Many of us came into the boot camp with little or no programming or computer science skills. Some of us had backgrounds in tech and were working to round out our professional tool-box. The one thing that we all had in common was an uncertainty about the future. 2020 was a year that threw challenge after challenge at everyone and to tackle a course of this scope during this difficult time was a daunting task. 
+
+Of all the lessons we learned during this course, one of the most impactful was learning how to rely on each other to make it through the toughest of challenges. It is in this spirit we leave you with our collection of resources. We hope it helps you overcome obstacles and remain focused over the coming months and encourage you to work with your classmates to help each other succeed. 
+
+Special thanks to our instructor [Jim](https://divstrong.com/) and teaching assistant [Justin](https://github.com/SiimonStark) for making the road a lot less bumpy.
 
 ---
 
