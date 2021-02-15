@@ -2,7 +2,7 @@
 
 ## **Table of Contents**
 
-- [**Bootcamp Student Resources**](README.md#bootcamp-student-resources)
+- [**Introductory Resources**](README.md#introductory-resources)
   - [Where To Start](README.md#where-to-start)
   - [About](README.md#about)
   - [Contributions](README.md#contributions)
