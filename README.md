@@ -21,11 +21,11 @@
 
 ## About
 
-This repo was created and is maintained by the alums of Trilogy's Full Stack Web Development boot camp at the University of Richmond 2020/21. We wanted to make a place where we could share tips, advice, resources and other information that may prove helpful for future students.   
+This repo was created and is maintained by the alums of Trilogy's Full Stack Web Development boot camp at the University of Richmond 2020/21. We wanted to make a place where we could share tips, advice, resources and other information that may prove helpful for future students.
 
-Many of us came into the boot camp with little or no programming or computer science skills. Some of us had backgrounds in tech and were working to round out our professional tool-box. The one thing that we all had in common was an uncertainty about the future. 2020 was a year that threw challenge after challenge at everyone and to tackle a course of this scope during this difficult time was a daunting task. 
+Many of us came into the boot camp with little or no programming or computer science skills. Some of us had backgrounds in tech and were working to round out our professional tool-box. The one thing that we all had in common was an uncertainty about the future. 2020 was a year that threw challenge after challenge at everyone and to tackle a course of this scope during this difficult time was a daunting task.
 
-Of all the lessons we learned during this course, one of the most impactful was learning how to rely on each other to make it through the toughest of challenges. It is in this spirit we leave you with our collection of resources. We hope it helps you overcome obstacles and remain focused over the coming months and encourage you to work with your classmates to help each other succeed. 
+Of all the lessons we learned during this course, one of the most impactful was learning how to rely on each other to make it through the toughest of challenges. It is in this spirit we leave you with our collection of resources. We hope it helps you overcome obstacles and remain focused over the coming months and encourage you to work with your classmates to help each other succeed.
 
 Special thanks to our instructor [Jim](https://divstrong.com/) and teaching assistant [Justin](https://github.com/SiimonStark) for making the road a lot less bumpy.
 
@@ -67,22 +67,17 @@ Below are some of the packages that we found most helpful throughout our experie
 | [framer-motion](https://www.framer.com/api/motion/#topics)                             | An open source and production-ready motion library for React                           | `npm i helmet`                        |
 | [helmet](https://helmetjs.github.io/)                                                  | Used to add an additional layer of security to the Express backend                     | `npm i framer-motion`                 |
 | [jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken)                             | Safely and securly transmits user credentials via JSON object                          | `npm i jsonwebtoken`                  |
-| [mapbox-gl](https://www.npmjs.com/package/mapbox-gl)                                   | Leverages Mapbox services for custom map views                                         | `npm i mapbox`                        |
 | [morgan](https://github.com/expressjs/morgan#readme)                                   | Used to log HTTP requests in the node console                                          | `npm i morgan`                        |
 | [mongoose](https://www.npmjs.com/package/mongoose)                                     | Enables object modeling for our MongoDB database                                       | `npm i mongoose`                      |
 | [multer](https://github.com/expressjs/multer#readme)                                   | Middleware for handling photo uploads within an application                            | `npm i multer`                        |
-| [node-geocoder](https://github.com/nchaulet/node-geocoder#readme)                      | Used to get user location and lookup nearby points of interest                         | `npm i node-geocoder`                 |
 | [nodemailer](https://nodemailer.com/about/)                                            | Send e-mails from Node.js                                                              | `npm i nodemailer`                    |
-| [passport](http://www.passportjs.org/)                                                 | Authentication                                                                         | `npm i passport`                      |
+| [passport](http://www.passportjs.org/)                                                 | Express-compatible authentication middleware for Node.js                               | `npm i passport`                      |
 | [react-animate-on-scroll](https://github.com/dbramwell/react-animate-on-scroll)        | Simple React animations                                                                | `npm install react-animate-on-scroll` |
 | [react-big-calendar](https://jquense.github.io/react-big-calendar/examples/index.html) | It's a big calendar. For React.                                                        | `npm i react-big-calendar`            |
 | [react-bootstrap](https://react-bootstrap.github.io/)                                  | Bootstrap 4 components built with (and for) React (used for styling)                   | `npm i react-bootstrap`               |
-| [react-map-gl](https://www.npmjs.com/package/react-map-gl)                             | Renders an interactive map view within an application                                  | `npm i react-map-gl`                  |
 | [react-responsive](https://www.npmjs.com/package/react-responsive)                     | Media queries in react for responsive design                                           | `npm i react-responsive`              |
-| [react-table](https://react-table.tanstack.com/)                                       | Interactive tables for react                                                           | `npm i react-table`                   |
 | [semantic-ui-react](https://www.npmjs.com/package/semantic-ui-react)                   | The official Semantic-UI-React integration (used for styling)                          | `npm i semantic-ui-react`             |
 | [slugify](https://github.com/simov/slugify)                                            | Used to create clean URL slugs that contain no foreign symbols                         | `npm i slugify`                       |
-| [use position](https://github.com/trekhleb/use-position#readme)                        | Used to create universally unique identifiers for an application's data sets           | `npm i use-position`                  |
 | [uuidv4](https://www.npmjs.com/package/uuidv4)                                         | Used to create universally unique identifiers for an application's data sets           | `npm i uuidv4`                        |
 | [xss-clean](https://www.npmjs.com/package/xss-clean)                                   | Sanitize user input coming from POST body, GET queries, and url params                 | `npm i xss-clean`                     |
 
