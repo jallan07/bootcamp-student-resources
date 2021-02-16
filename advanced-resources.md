@@ -86,7 +86,7 @@ Below are some of the packages that we found most helpful throughout our experie
 ## **React**
 
 - [React.js Cheatsheet](https://devhints.io/react)
-- [React Interview Questsions & Answers](https://github.com/sudheerj/reactjs-interview-questions)
+- [React Interview Questsions & Answers](https://github.com/sudheerj/reactjs-interview-questions) -[Getting Started With Redux](https://egghead.io/courses/getting-started-with-redux)
 
 <br />
 
