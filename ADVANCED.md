@@ -30,7 +30,9 @@ Below are some of the packages that we found most helpful throughout our experie
 | [Formik](https://formik.org/)                                                          | Formik is the world's most popular open source form library for React and React Native | `npm i formik`                        |
 | [framer](https://www.npmjs.com/package/framer)                                         | Library that helps drives interactive animations                                       | `npm i framer`                        |
 | [framer-motion](https://www.framer.com/api/motion/#topics)                             | An open source and production-ready motion library for React                           | `npm i helmet`                        |
+| [google-maps-react](https://www.npmjs.com/package/google-maps-react)                   | A pain-free method for incorporating google maps into your React app                   | `npm i google-maps-react`             |
 | [helmet](https://helmetjs.github.io/)                                                  | Used to add an additional layer of security to the Express backend                     | `npm i framer-motion`                 |
+| [JSON server](https://helmetjs.github.io/)                                             | Fake Rest API to create a backend quickly for testing purposes                         | `npm i -g json-server`                |
 | [jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken)                             | Safely and securly transmits user credentials via JSON object                          | `npm i jsonwebtoken`                  |
 | [morgan](https://github.com/expressjs/morgan#readme)                                   | Used to log HTTP requests in the node console                                          | `npm i morgan`                        |
 | [mongoose](https://www.npmjs.com/package/mongoose)                                     | Enables object modeling for our MongoDB database                                       | `npm i mongoose`                      |
@@ -52,20 +54,21 @@ Below are some of the packages that we found most helpful throughout our experie
 
 ## **Design Resources**
 
-| Name (a-z)                                        | Description                                                                 |
-| ------------------------------------------------- | --------------------------------------------------------------------------- |
-| [1-line Layouts](http://1linelayouts.glitch.me/)  | Common CSS layouts in one(ish) line                                         |
-| [Animista](https://animista.net/)                 | Select animation options and Animista automatically creates the CSS for you |
-| [Best design resources](http://bit.ly/3pbLsNf)    | A list of all the best design resources that a developer should bookmark    |
-| [Coolors](https://coolors.co/)                    | Intuitive color scheme generator                                            |
-| [Figma](https://www.figma.com/)                   | Collaborative wireframing and design staging platform                       |
-| [Flat UI Colors](https://flatuicolors.com/)       | A total set of 14 color palettes and 280 colors for your coding projects    |
-| [Flexbox Cheatsheet](http://bit.ly/2LKesht)       | Flexbox Cheatsheet                                                          |
-| [Font Awesome](https://fontawesome.com/)          | Vector icons and social logos for websites                                  |
-| [icons8](https://icons8.com/)                     | Free icons that aren't Font Awesome                                         |
-| [Lucidchart](https://www.lucidchart.com/pages/)   | Diagraming and flowcharting                                                 |
-| [Remove Image Background](https://www.remove.bg/) | Remove the background from images for easier use                            |
-| [Unsplash](https://unsplash.com/)                 | Free images for EVERYTHING                                                  |
+| Name (a-z)                                                  | Description                                                                 |
+| ----------------------------------------------------------- | --------------------------------------------------------------------------- |
+| [1-line Layouts](http://1linelayouts.glitch.me/)            | Common CSS layouts in one(ish) line                                         |
+| [Animista](https://animista.net/)                           | Select animation options and Animista automatically creates the CSS for you |
+| [Best design resources](http://bit.ly/3pbLsNf)              | A list of all the best design resources that a developer should bookmark    |
+| [Coolors](https://coolors.co/)                              | Intuitive color scheme generator                                            |
+| [CSS clip-path generator](https://bennettfeely.com/clippy/) | Tool to help you create complex shapes in CSS                               |
+| [Figma](https://www.figma.com/)                             | Collaborative wireframing and design staging platform                       |
+| [Flat UI Colors](https://flatuicolors.com/)                 | A total set of 14 color palettes and 280 colors for your coding projects    |
+| [Flexbox Cheatsheet](http://bit.ly/2LKesht)                 | Flexbox Cheatsheet                                                          |
+| [Font Awesome](https://fontawesome.com/)                    | Vector icons and social logos for websites                                  |
+| [icons8](https://icons8.com/)                               | Free icons that aren't Font Awesome                                         |
+| [Lucidchart](https://www.lucidchart.com/pages/)             | Diagraming and flowcharting                                                 |
+| [Remove Image Background](https://www.remove.bg/)           | Remove the background from images for easier use                            |
+| [Unsplash](https://unsplash.com/)                           | Free images for EVERYTHING                                                  |
 
 <br />
 
@@ -73,7 +76,7 @@ Below are some of the packages that we found most helpful throughout our experie
 
 ## **JavaScript**
 
-![Array Cheatsheet](./img/array-cheatsheet.jpeg 'Array Cheatsheet')
+![Array Cheatsheet](./img/array-cheatsheet.jpeg "Array Cheatsheet")
 
 - [Ultimate Javascript CheatSheet](https://dev.to/rahxuls/ultimate-javascript-cheatsheet-for-2021-41f6)
 - [13 JavaScript One-Liners That’ll Make You Look Like a Pro](https://medium.com/dailyjs/13-javascript-one-liners-thatll-make-you-look-like-a-pro-29a27b6f51cb)
