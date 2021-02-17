@@ -8,7 +8,8 @@
   - [Contributions](README.md#contributions)
 - [**Advanced Resources**](ADVANCED.md#advanced-resources)
   - [APIs](ADVANCED.md#apis)
-  - [Design Resources](ADVANCED.md#design-resources)
+  - [Bootstrap](ADVANCED.md#bootstrap)
+  - [Design](ADVANCED.md#design)
   - [JavaScript](ADVANCED.md#javascript)
   - [MongoDB](ADVANCED.md#mongodb)
   - [MySQL](ADVANCED.md#mysql)
@@ -35,7 +36,19 @@
 
 ---
 
-## **Design Resources**
+## **Bootstrap**
+
+| Name (a-z)                                                                                | Description                                                                                                                              |
+| ----------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| [Bootstrap 4 Classes](https://www.w3schools.com/bootstrap4/bootstrap_ref_all_classes.asp) | Complete list of all Bootstrap 4 CSS classes with description and examples                                                               |
+| [Bootswatch](https://bootswatch.com/)                                                     | Free themes for Bootstrap                                                                                                                |
+| [Intro to Bootstrap](https://www.w3schools.in/bootstrap4/intro/)                          | Explainer article that talks about what Bootstrap is, how it is used, and what the benefits are of using it (or a similar CSS framework) |
+
+<br />
+
+---
+
+## **Design**
 
 | Name (a-z)                                        | Description                                                                 |
 | ------------------------------------------------- | --------------------------------------------------------------------------- |
