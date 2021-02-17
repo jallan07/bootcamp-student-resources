@@ -138,5 +138,6 @@ Below are some of the packages that we found most helpful throughout our experie
 | [Getting Started With Redux](https://egghead.io/courses/getting-started-with-redux)             | A **FREE** 2-hour course that explains the basics of state management in React with Redux |
 | [React.js Cheatsheet](https://devhints.io/react)                                                | Cheatsheet showing common React functions and methods                                     |
 | [React Interview Questsions & Answers](https://github.com/sudheerj/reactjs-interview-questions) | A list of over 300 interview questions (and answers) all about React                      |
+| [Redux For Beginners](https://www.youtube.com/watch?v=CVpUuw9XSjY&t=1029s)                      | A 40-minute Youtube video that simply breaks down how to use Redux in React               |
 
 <br />
