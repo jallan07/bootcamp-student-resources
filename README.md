@@ -7,13 +7,13 @@
   - [Where To Start](README.md#where-to-start)
   - [Contributions](README.md#contributions)
 - [**Advanced Resources**](ADVANCED.md#advanced-resources)
-  - [NPM Packages](ADVANCED.md#npm-packages)
+  - [APIs](ADVANCED.md#apis)
   - [Design Resources](ADVANCED.md#design-resources)
   - [JavaScript](ADVANCED.md#javascript)
-  - [React](ADVANCED.md#react)
-  - [APIs](ADVANCED.md#apis)
-  - [MySQL](ADVANCED.md#mysql)
   - [MongoDB](ADVANCED.md#mongodb)
+  - [MySQL](ADVANCED.md#mysql)
+  - [NPM Packages](ADVANCED.md#npm-packages)
+  - [React](ADVANCED.md#react)
 
 ---
 
