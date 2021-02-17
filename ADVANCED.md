@@ -3,8 +3,8 @@
 ## **Table of Contents**
 
 - [**Introductory Resources**](README.md#introductory-resources)
-  - [Where To Start](README.md#where-to-start)
   - [About](README.md#about)
+  - [Where To Start](README.md#where-to-start)
   - [Contributions](README.md#contributions)
 - [**Advanced Resources**](ADVANCED.md#advanced-resources)
   - [NPM Packages](ADVANCED.md#npm-packages)
