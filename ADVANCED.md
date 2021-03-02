@@ -20,11 +20,12 @@
 
 ## **APIs**
 
-| Name (a-z)                                                      | Usage                                           |
-| --------------------------------------------------------------- | ----------------------------------------------- |
-| [Affirmations.dev](https://www.affirmations.dev/)               | Words of affirmation                            |
-| [Rest Countries](https://restcountries.eu/)                     | Get information about countries via RESTful API |
-| [Spotify](https://developer.spotify.com/documentation/web-api/) | Music                                           |
+| Name (a-z)                                                        | Usage                                                             |
+| ----------------------------------------------------------------- | ----------------------------------------------------------------- |
+| [Affirmations.dev](https://www.affirmations.dev/)                 | Words of affirmation                                              |
+| [Rest Countries](https://restcountries.eu/)                       | Get information about countries via RESTful API                   |
+| [Public API Database](https://github.com/public-apis/public-apis) | A list of ~200 free APIs for use in software and web development. |
+| [Spotify](https://developer.spotify.com/documentation/web-api/)   | Music                                                             |
 
 <br />
 
