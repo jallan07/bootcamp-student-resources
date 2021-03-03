@@ -15,6 +15,8 @@
   - [MySQL](ADVANCED.md#mysql)
   - [NPM Packages](ADVANCED.md#npm-packages)
   - [React](ADVANCED.md#react)
+- [**Post Graduation**](POST-GRADUATION.md#post-graduation-resources)
+  - [Interview Prep](POST-GRADUATION.md#interview-prep)
 
 ---
 
