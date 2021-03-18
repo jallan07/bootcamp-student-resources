@@ -40,13 +40,14 @@ The Bootcamp syllabus ramps up fast. Because of that, it's important that you be
 
 We **HIGHLY** recommend that you begin with these resources before moving on to the [Advanced Resources](advanced-resources.md#advanced-resources) contained within this repo.
 
-| Name                                                                      | Description                                                                                                                 |
+| Name (a-z)                                                                | Description                                                                                                                 |
 | ------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
 | [freeCodeCamp.org](https://freeCodeCamp.org/)                             | Free tutorials and practice activities on basically any language you can imagine                                            |
 | [Code Academy](https://codeacademy.com)                                   | Free & paid coding courses and acivities                                                                                    |
-| [Traversy Media](https://www.youtube.com/user/TechGuyWeb)                 | Youtube channel with tons of tutorials from very basic topics like vanilla Javascript to complex ones like state management |
-| [Programming With Mosh](https://www.youtube.com/user/programmingwithmosh) | Youtube channel with tons of tutorials from very basic topics like vanilla Javascript to complex ones like state management |
+| [devhints.io](https://devhints.io/)                                       | Cheatsheets for anything related to coding: React, Express, ES6 syntax, etc.                                                |
 | [Dev Ed](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q)        | Youtube channel with tons of tutorials from very basic topics like vanilla Javascript to complex ones like state management |
+| [Programming With Mosh](https://www.youtube.com/user/programmingwithmosh) | Youtube channel with tons of tutorials from very basic topics like vanilla Javascript to complex ones like state management |
+| [Traversy Media](https://www.youtube.com/user/TechGuyWeb)                 | Youtube channel with tons of tutorials from very basic topics like vanilla Javascript to complex ones like state management |
 
 <br />
 
