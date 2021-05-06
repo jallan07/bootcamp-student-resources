@@ -73,4 +73,4 @@ Contributions are what make the open source community such an amazing place to b
 
 ---
 
-### [Take me to the **Advanced Resources** ⏭️ ](advanced-resources.md#advanced-resources)
+### [Take me to the **Advanced Resources** ⏭️ ](ADVANCED.md#advanced-resources)
